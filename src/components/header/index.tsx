@@ -19,11 +19,6 @@ export function Header() {
                                 Contato
                             </Link>
                         </li>
-                        <li>
-                            <Link href="/dashboard">
-                                Dashboard
-                            </Link>
-                        </li>
                     </ul>
                 </nav>
             </div>
